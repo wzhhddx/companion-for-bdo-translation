@@ -21,17 +21,17 @@
     <string name="title_header_charts">图表</string>
     <string name="title_header_misc">杂项</string>
     <string name="title_main_timer">在线计时器</string>
-    <string name="title_boss_timer">老板计时器</string>
+    <string name="title_boss_timer">首领计时器</string>
     <string name="title_cooking_inspection">检查</string>
     <string name="title_cooking_db">烹饪数据库</string>
     <string name="title_alchemy_db">炼金术数据库</string>
-    <string name="title_workshop_db">车间数据库</string>
-    <string name="title_processing_db">处理数据库</string>
+    <string name="title_workshop_db">工坊数据库</string>
+    <string name="title_processing_db">加工数据库</string>
     <string name="title_materialgroup">材料组</string>
-    <string name="title_failstack_calculator">失效堆栈计算器</string>
+    <string name="title_failstack_calculator">强化计算器</string>
     <string name="title_horse_calculator">马计算器</string>
     <string name="title_market_calculator">市场计算器</string>
-    <string name="title_failstack_chart">失败堆栈图</string>
+    <string name="title_failstack_chart">强化层数图</string>
     <string name="title_grinding_chart">研磨图</string>
     <string name="title_horse_chart">马图</string>
     <string name="title_about">关于</string>
@@ -39,13 +39,13 @@
     <string name="title_rate_app">评价应用</string>
 
     <!-- !! INTROS -->
-    <string name="intro_market" formatted="false">基本税率是35％。价值包增加了30％的税收返回值。</string>
+    <string name="intro_market" formatted="false">基本税率是35％。会员包增加了30％的税收返回值。</string>
     <string name="intro_horselist">每匹马都有红色，黑色和白色的颜色点。颜色组合可以用来计算可能的后代。 </string>
 
     <!-- !! GENERAL -->
     <string name="calculate">计算</string>
     <string name="enabled">启用</string>
-    <string name="disabled">残</string>
+    <string name="disabled">无</string>
     <string name="upgrade_to_pro">移除广告</string>
     <string name="ok">好</string>
     <string name="cancel">取消</string>
@@ -62,8 +62,8 @@
     <string name="night">晚</string>
     <string name="day">日</string>
     <string name="resetDaily">日常</string>
-    <string name="resetImperial">帝国</string>
-    <string name="resetImperialTrading">帝国贸易</string>
+    <string name="resetImperial">皇室</string>
+    <string name="resetImperialTrading">皇室贸易</string>
     <string name="resetBSA">棋盘游戏</string>
 
     <!-- !! CRAFTING -->
@@ -91,7 +91,7 @@
 
     <!-- !! HORSE CALCULATOR -->
     <string name="horse_breeding_multiplier">地区有不同的繁殖倍数：SEA/MENA/NA/EU/SA/TW/KR/JP/RU = 14.选择乘数：%1$d</string>
-    <string name="female_horse"><b>雌马</b></string>
+    <string name="female_horse"><b>母马</b></string>
     <string name="male_horse"><b>马匹</b></string>
     <string name="tier">层</string>
     <string name="level">Lv</string>
@@ -103,7 +103,7 @@
     <string name="value_pack_is_activated">值包已激活</string>
     <string name="market_sell_price">市场卖出价</string>
     <string name="market_sell_amount">市场卖出金额</string>
-    <string name="market_result"><b>超值包：</b> %1$s\n<b>盈利：</b> %2$s</string>
+    <string name="market_result"><b>会员包：</b> %1$s\n<b>盈利：</b> %2$s</string>
 
     <!-- !! ENHANCEMENT CHART -->
     <string name="enhance_base_chance">基本机会</string>
@@ -134,10 +134,10 @@
     <string name="pref_title_24hour"> 24小时格式</string>
     <string name="pref_24hour">以24小时格式显示时间</string>
     <string name="pref_title_region">区域</string>
-    <string name="pref_screen_awake">让游戏和老板定时器保持屏幕</string>
+    <string name="pref_screen_awake">让游戏和首领定时器保持屏幕</string>
     <string name="pref_title_screen_awake">保持屏幕清醒</string>
-    <string name="pref_title_bosspriority">排序老板</string>
-    <string name="pref_bosspriority">老板按他们的产卵时间排序</string>
+    <string name="pref_title_bosspriority">排序首领</string>
+    <string name="pref_bosspriority">首领按他们的产卵时间排序</string>
     <string name="pref_title_bossnotification">产卵通知</string>
 
     <!-- MISC -->
@@ -163,16 +163,16 @@
     <string name="crates">包装箱</string>
     <string name="wearables">可穿戴设备</string>
 
-    <string name="mob_helms">Helms</string>
-    <string name="mob_elrics">Elrics</string>
-    <string name="mob_pollyforest">Polly\'s Forest</string>
-    <string name="mob_sausans">Sausans</string>
-    <string name="mob_fadus">Fadus Garrison</string>
-    <string name="mob_pirates">Pirates</string>
-    <string name="mob_bashims">Bashims</string>
-    <string name="mob_desertnagas">Desert Nagas</string>
-    <string name="mob_desertfogans">Desert Fogans</string>
-    <string name="mob_cadry">Cadry</string>
+    <string name="mob_helms">头盔族</string>
+    <string name="mob_elrics">埃里克</string>
+    <string name="mob_pollyforest">波利森林</string>
+    <string name="mob_sausans">苏胜驻地</string>
+    <string name="mob_fadus">苏胜驻地码头</string>
+    <string name="mob_pirates">库伊特海盗</string>
+    <string name="mob_bashims">巴新族</string>
+    <string name="mob_desertnagas">沙漠娜迦</string>
+    <string name="mob_desertfogans">提提温溪谷</string>
+    <string name="mob_cadry">卡特里</string>
     <string name="mob_gahazbandits">Gahaz Bandits</string>
     <string name="mob_crescents">Crescents</string>
     <string name="mob_basilisks">Basilisks</string>
@@ -180,7 +180,7 @@
     <string name="mob_navarnsteppe">Navarn Steppe</string>
     <string name="mob_sulfurmines">Sulfur Mines</string>
     <string name="mob_pilaku">Pila Ku</string>
-    <string name="mob_manshaum">Manshaum Forest</string>
+    <string name="mob_manshaum">曼莎温森林</string>
     <string name="mob_forestronaros">Forest Ronaros</string>
     <string name="mob_aakmanhystria">Aakman/Hystria</string>
     <string name="mob_mirumokruins">Mirumok Ruins</string>
@@ -192,23 +192,23 @@
 
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。</string>
-    <string name="bosstimer_notification_title">老大即将产卵！</string>
+    <string name="bosstimer_notification_title">首领即将产卵！</string>
     <string name="bosstimer_notification_text">%1$s:%2$s</string>
     <string name="bosstimer_next_spawn">下一个产卵：</string>
     <string name="bosstimer_region">当前地区：%s</string>
     <!-- BOSS NAMES -->
-    <string name="karanda">卡嵐達</string>
-    <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">克價卡</string>
-    <string name="nouver">羅裴勒</string>
-    <string name="kutum">庫屯</string>
-    <string name="bheg">Dastard Bheg</string>
+    <string name="karanda">卡兰达</string>
+    <string name="dimtreespirit">愚钝的树精</string>
+    <string name="kzarka">科扎卡</string>
+    <string name="nouver">怒贝尔</string>
+    <string name="kutum">库图姆</string>
+    <string name="bheg">伯格</string>
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
-    <string name="offin">Offin</string>
+    <string name="offin">奥品</string>
     <string name="quint">肯恩特</string>
-    <string name="muraka">木拉卡</string>
-    <string name="vell">鐘</string>
+    <string name="muraka">莫斯坎</string>
+    <string name="vell">贝尔</string>
     <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">地区没有数据！\n\n请将此区域的产卵时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
