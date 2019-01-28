@@ -21,14 +21,14 @@
     <string name="title_header_charts">图表</string>
     <string name="title_header_misc">杂项</string>
     <string name="title_main_timer">在线计时器</string>
-    <string name="title_boss_timer">老板计时器</string>
+    <string name="title_boss_timer">首领计时器</string>
     <string name="title_cooking_inspection">检查</string>
     <string name="title_cooking_db">烹饪数据库</string>
     <string name="title_alchemy_db">炼金术数据库</string>
-    <string name="title_workshop_db">车间数据库</string>
-    <string name="title_processing_db">处理数据库</string>
+    <string name="title_workshop_db">工坊数据库</string>
+    <string name="title_processing_db">加工数据库</string>
     <string name="title_materialgroup">材料组</string>
-    <string name="title_failstack_calculator">失效堆栈计算器</string>
+    <string name="title_failstack_calculator">垫子计算器</string>
     <string name="title_horse_calculator">马计算器</string>
     <string name="title_market_calculator">市场计算器</string>
     <string name="title_failstack_chart">失败堆栈图</string>
@@ -134,11 +134,11 @@
     <string name="pref_title_24hour"> 24小时格式</string>
     <string name="pref_24hour">以24小时格式显示时间</string>
     <string name="pref_title_region">区域</string>
-    <string name="pref_screen_awake">让游戏和老板定时器保持屏幕</string>
+    <string name="pref_screen_awake">让游戏和首领定时器保持屏幕</string>
     <string name="pref_title_screen_awake">保持屏幕清醒</string>
-    <string name="pref_title_bosspriority">排序老板</string>
-    <string name="pref_bosspriority">老板按他们的产卵时间排序</string>
-    <string name="pref_title_bossnotification">产卵通知</string>
+    <string name="pref_title_bosspriority">排序首领</string>
+    <string name="pref_bosspriority">首领按他们的出现时间排序</string>
+    <string name="pref_title_bossnotification">出现通知</string>
 
     <!-- MISC -->
     <string name="pref_title_twitter">Twitter</string>
@@ -163,9 +163,9 @@
     <string name="crates">包装箱</string>
     <string name="wearables">可穿戴设备</string>
 
-    <string name="mob_helms">Helms</string>
+    <string name="mob_helms">头盔族</string>
     <string name="mob_elrics">Elrics</string>
-    <string name="mob_pollyforest">Polly\'s Forest</string>
+    <string name="mob_pollyforest">波利森林</string>
     <string name="mob_sausans">Sausans</string>
     <string name="mob_fadus">Fadus Garrison</string>
     <string name="mob_pirates">Pirates</string>
@@ -192,23 +192,23 @@
 
     <!-- !! BOSSTIMER -->
     <string name="intro_bosstimer">点击闹钟以分别设置通知。\n在设置中更改地区/时区。</string>
-    <string name="bosstimer_notification_title">老大即将产卵！</string>
+    <string name="bosstimer_notification_title">首领即将出现！</string>
     <string name="bosstimer_notification_text">%1$s:%2$s</string>
-    <string name="bosstimer_next_spawn">下一个产卵：</string>
+    <string name="bosstimer_next_spawn">下一个首领：</string>
     <string name="bosstimer_region">当前地区：%s</string>
     <!-- BOSS NAMES -->
-    <string name="karanda">卡嵐達</string>
+    <string name="karanda">卡兰达</string>
     <string name="dimtreespirit">Dim Tree Spirit</string>
-    <string name="kzarka">克價卡</string>
-    <string name="nouver">羅裴勒</string>
-    <string name="kutum">庫屯</string>
+    <string name="kzarka">科扎卡</string>
+    <string name="nouver">怒贝尔  </string>
+    <string name="kutum">库图姆</string>
     <string name="bheg">Dastard Bheg</string>
     <string name="mudster">Giant Mudster</string>
     <string name="rednose">Red Nose</string>
-    <string name="offin">Offin</string>
+    <string name="offin">奥品</string>
     <string name="quint">肯恩特</string>
     <string name="muraka">木拉卡</string>
-    <string name="vell">鐘</string>
+    <string name="vell">贝尔</string>
     <string name="garmoth">Garmoth</string>
 
     <string name="error_bosstimer_nodata">地区没有数据！\n\n请将此区域的产卵时间提交至me@gimu.org\n\nPlease submit spawn-times for this region to me@gimu.org.</string>
@@ -222,13 +222,13 @@
     <string name="pref_title_bossfetchtime">提前通知</string>
 
     <!-- LATEST UPDATE -->
-    <string name="title_horseleveling_calculator">調平計算器</string>
+    <string name="title_horseleveling_calculator">交配计算器</string>
     <string name="silver_embroidered_clothes">银刺绣驯马师的衣服</string>
     <string name="horse_trainer_clothes">驯马师的衣服</string>
     <string name="professional_trainer_clothes">专门训练师的衣服</string>
-    <string name="horseleveling_result">需要的總XP：%1$s\n相對XP需要：%2$s\n所需時數：%3$s</string>
+    <string name="horseleveling_result">需要的总XP：%1$s\n相对XP需要：%2$s\n所需时间：%3$s</string>
     <string name="special_clothing">贝尼亚乘马服</string>
-    <string name="training_level">馬訓練水平</string>
+    <string name="training_level">马训练水平</string>
     <string name="current_exp">目前的EXP</string>
-    <string name="type">類型</string>
+    <string name="type">类型</string>
 </resources>
